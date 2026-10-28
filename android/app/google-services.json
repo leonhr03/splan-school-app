@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "873678127027",
+    "project_id": "splan-school",
+    "storage_bucket": "splan-school.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873678127027:android:e0ac163c69d6e83aedd5c6",
+        "android_client_info": {
+          "package_name": "com.splan_school_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsCsoGRoF0Sm9P1LtijLY5I_BMy5eYjNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
