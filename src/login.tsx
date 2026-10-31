@@ -32,7 +32,6 @@ function Login() {
         </View>
 
         <View style={styles.sheet}>
-          <View style={styles.handle} />
           <Text style={styles.title}>Willkommen</Text>
           <Text style={styles.subtitle}>
             Gib deinen Namen ein, um loszulegen.
@@ -123,7 +122,7 @@ const createStyles = (colors: ThemeColors) =>
 
     sheet: {
       width: '100%',
-      paddingTop: 14,
+      paddingTop: 20,
       paddingHorizontal: 24,
       paddingBottom: 28,
       borderTopLeftRadius: 32,
