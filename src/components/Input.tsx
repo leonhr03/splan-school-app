@@ -76,11 +76,11 @@ const createStyles = (colors: ThemeColors) =>
 
     textInput: {
       paddingHorizontal: 16,
-      paddingVertical: 14,
+      paddingVertical: 15,
       backgroundColor: colors.card,
       borderRadius: 15,
       borderWidth: 1.5,
-      borderColor: 'transparent',
+      borderColor: colors.border,
       width: '100%',
       fontSize: 16,
       color: colors.text,
