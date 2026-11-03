@@ -41,7 +41,7 @@ function Login() {
             label="Name"
             value={name}
             onChange={setName}
-            placeholder="z. B. Max Mustermann"
+            placeholder="z. B. Manfred Mustermann"
             autoCapitalize="words"
             autoCorrect={false}
             returnKeyType="done"
